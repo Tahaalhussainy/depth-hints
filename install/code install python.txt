@@ -1,0 +1,22 @@
+تحميل برنامج python
+1-
+https://www.python.org/downloads/
+
+2-
+
+python -m pip install --upgrade pip
+
+or
+
+python  get-pip.py
+
+
+3-
+
+pip install opencv-python
+
+pip install numpy
+
+pip install matplotlib
+
+pip install Pillow
